@@ -1,1 +1,1 @@
-# guided
+I completed a data analysis Guided project using Excel with the help of Rishabh Mishra’s YouTube. In this project, I worked on cleaning, organizing, and analyzing data sets to derive meaningful insights. Key tasks included data cleaning, creating pivot tables, using formulas for calculations, and visualizing data with charts and graphs. This project enhanced my proficiency in Excel and improved my ability to analyze data for better decision-making.
